@@ -1,9 +1,9 @@
-SLIDE 1 : Introduction
+TYPE 1 : Introduction
 Titre : Comparaison des bases de données MongoDB et SQL
 Aperçu:
 Introduction aux types de bases de données : SQL (Structured Query Language) vs NoSQL (Not Only SQL).
 Objectif : Comparez MongoDB (une base de données NoSQL leader) avec les bases de données SQL traditionnelles.
-SLIDE 2 : Bases de données SQL
+TYPE 2 : Bases de données SQL
 Titre : Bases de données SQL
 Définition:
 Les bases de données SQL sont des bases de données relationnelles qui utilisent le langage de requête structuré pour la gestion des données.
@@ -14,7 +14,7 @@ Conformité ACID : garantit l'atomicité, la cohérence, l'isolement et la dura
 Basé sur un tableau : les données sont organisées en lignes et en colonnes.
 Forte cohérence : garantit une cohérence immédiate dans la base de données.
 
-SLIDE 3 : MongoDB
+TYPE 3 : MongoDB
 Titre : MongoDB
 Définition:
 MongoDB est une base de données NoSQL qui stocke les données dans des documents flexibles de type JSON.
@@ -25,7 +25,7 @@ Orienté document : stocke les données au format BSON (Binary JSON).
 Évolutivité horizontale : facilement évolutive sur plusieurs serveurs (sharding).
 Haute performance : optimisé pour gérer de gros volumes de données.
 Requêtes riches : prend en charge les requêtes complexes et l'indexation.
-SLIDE 4 : Comparaison
+TYPE 4 : Comparaison
 veTitre : MongoDB vs bases de données SQL
 Modèle de données:
 SQL : structuré, basé sur des tables, avec un schéma fixe.
@@ -43,8 +43,8 @@ Cas d'utilisation :
 SQL : idéal pour les applications nécessitant des requêtes complexes, des données structurées et un support transactionnel solide (par exemple, services bancaires, systèmes ERP).
 MongoDB : Idéal pour les applications avec des données non structurées, des analyses en temps réel et des architectures évolutives.
 
-SLIDE 5 : Conclusion
-Titre : Conclusion
+TYPE 5 : Conclusion
+TitLe : Conclusion
 
 Choisir la bonne base de données :
 
